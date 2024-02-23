@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sazzad
-- 👀 I’m interested in AI,Deep learning,Machine learing,full stack dev 
+- 👀 I’m interested in AI,Deep learning,Machine learning, and natural language processing.
 - 🌱 I’m currently learning neural network
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on NLP,SNN etc.
 - 📫 How to reach me? imranahmed44@yahoo.com
 
 <!---
